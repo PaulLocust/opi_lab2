@@ -15,9 +15,18 @@ blue() {
 }
 
 commit() {
-  echo "some info" >> file.txt  # Добавляем текст в файл
-  git add file.txt
+  unzip -o "../commits_zip/commit$1.zip" -d src
+  git add *
   git commit -am "r$1" --allow-empty
+
+  CURRENT_USER=$(git config user.name)  # Получаем имя пользователя
+
+  if [ "$CURRENT_USER" = "red" ]; then
+    echo -e "commit info: r$1 $CURRENT_USER 🔴 ↑"
+  else
+    echo -e "commit info: r$1 $CURRENT_USER 🔵 ↑"
+  fi
+  echo -e "--------------------------\n"
 }
 
 branch() {
@@ -104,7 +113,7 @@ commit 11
 # 12
 blue
 branch 9
-merge 4
+merge_save_our_data 4
 commit 12
 
 # 13

@@ -11,8 +11,8 @@ blue() {
 }
 
 commit() {
-  echo "some info" >> file.txt  # Добавляем текст в файл
-  svn add file.txt --force # force для каталогов
+	unzip -o "/d/opi_lab2/commits_zip/commit$1.zip" -d /d/opi_lab2/svn/working_copy
+  svn add * --force # force для каталогов
   svn commit -m r$1 --username $CURRENT_USER
   if [ "$CURRENT_USER" = "red" ]; then
     echo -e "commit: r$1 $CURRENT_USER 🔴 ↑"
@@ -32,6 +32,8 @@ branch() {
 branch_from_trunk() {
 	# Создание ветки из trunk
 	svn copy $REMOTE_URL/trunk $REMOTE_URL/branches/branch"$1" -m "Add branch$1" --username $CURRENT_USER
+	# Переключение на новую ветку
+  svn switch $REMOTE_URL/branches/branch"$1"
 }
 
 switch() {
@@ -42,7 +44,9 @@ switch() {
 
 switch_to_trunk() {
 	# Переключение на ветку trunk
+	svn update
 	svn switch $REMOTE_URL/trunk
+	svn update
 }
 
 merge() {
@@ -173,7 +177,7 @@ commit 21
 switch 7
 commit 22
 
-# 23 зря я сюда полез... svn: E155015: One or more conflicts were produced while merging r4:12 into
+# 23
 switch 2
 merge 7
 commit 23

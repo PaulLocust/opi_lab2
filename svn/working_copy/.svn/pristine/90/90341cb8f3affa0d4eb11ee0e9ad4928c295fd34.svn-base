@@ -1,0 +1,14 @@
+public class I {
+
+    private long i = 4321;
+
+    private byte a = 1;
+
+    public int af() {
+        return -1;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+}

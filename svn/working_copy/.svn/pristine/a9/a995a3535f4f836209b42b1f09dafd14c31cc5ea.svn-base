@@ -1,0 +1,34 @@
+public class D extends null {
+
+    private double b = 100.500;
+
+    private double i = 100.500;
+
+    public long dd() {
+        return 99999;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+}

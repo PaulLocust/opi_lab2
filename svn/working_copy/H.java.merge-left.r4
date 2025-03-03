@@ -1,0 +1,18 @@
+public class H {
+
+    private long i = 4321;
+
+    private int g = 42;
+
+    public long ac() {
+        return 222;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+}

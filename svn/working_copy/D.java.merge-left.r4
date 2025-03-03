@@ -1,0 +1,18 @@
+public class D {
+
+    private double b = 100.500;
+
+    private double i = 100.500;
+
+    public long dd() {
+        return 99999;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+}

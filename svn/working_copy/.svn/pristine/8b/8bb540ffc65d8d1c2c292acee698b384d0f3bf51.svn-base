@@ -1,0 +1,26 @@
+public class H extends null {
+
+    private long i = 4321;
+
+    private int g = 42;
+
+    public long ac() {
+        return 222;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public int cc() {
+        return 42;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+}
