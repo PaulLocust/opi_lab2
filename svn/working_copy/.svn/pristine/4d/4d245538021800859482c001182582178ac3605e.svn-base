@@ -1,0 +1,54 @@
+public class H extends null {
+
+    private long i = 4321;
+
+    private int g = 42;
+
+    public long ac() {
+        return 222;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public int cc() {
+        return 39;
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+}

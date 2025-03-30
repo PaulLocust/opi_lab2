@@ -1,0 +1,453 @@
+------------------------------------------------------------------------
+r44 | red | 2025-03-30 16:45:44 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /trunk
+   A /trunk/0ZWiR7XVae.4A8 (from /branches/branch2/0ZWiR7XVae.4A8:43)
+   A /trunk/5Jkr8SyxU0.VHy (from /branches/branch2/5Jkr8SyxU0.VHy:43)
+   M /trunk/B.java
+   M /trunk/D.java
+   M /trunk/H.java
+   M /trunk/I.java
+   A /trunk/Rj5oJvQ6SI.7Ny (from /branches/branch2/Rj5oJvQ6SI.7Ny:43)
+   M /trunk/_
+   A /trunk/btqoVTa5ss.rfo (from /branches/branch2/btqoVTa5ss.rfo:43)
+   A /trunk/hrf2erfobt.kIw (from /branches/branch2/hrf2erfobt.kIw:43)
+   A /trunk/j5oJvQ6SIO.NyR
+   A /trunk/oA1VHy5Jkr.fcU (from /branches/branch2/oA1VHy5Jkr.fcU:43)
+   A /trunk/obtqoVTa5s.erf (from /branches/branch2/obtqoVTa5s.erf:43)
+   A /trunk/r8SyxU082u.5Jk (from /branches/branch2/r8SyxU082u.5Jk:43)
+   A /trunk/ssNw3Xhser.rtT (from /branches/branch2/ssNw3Xhser.rtT:43)
+
+r34
+------------------------------------------------------------------------
+r43 | blue | 2025-03-30 16:45:25 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch2
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+   A /branches/branch2/Rj5oJvQ6SI.7Ny
+   M /branches/branch2/_
+   A /branches/branch2/ssNw3Xhser.rtT
+Merged via: r44
+
+r33
+------------------------------------------------------------------------
+r42 | red | 2025-03-30 16:45:05 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch1/B.java
+   M /branches/branch1/D.java
+   M /branches/branch1/H.java
+   M /branches/branch1/I.java
+   M /branches/branch1/_
+Merged via: r44, r43
+
+r32
+------------------------------------------------------------------------
+r22 | red | 2025-03-30 16:44:08 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch1/B.java
+   M /branches/branch1/D.java
+   M /branches/branch1/H.java
+   M /branches/branch1/I.java
+   A /branches/branch1/obtqoVTa5s.erf
+   A /branches/branch1/r8SyxU082u.5Jk
+Merged via: r44, r43
+
+r13
+------------------------------------------------------------------------
+r41 | blue | 2025-03-30 16:45:04 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch2
+   A /branches/branch2/5Jkr8SyxU0.VHy (from /branches/branch9/5Jkr8SyxU0.VHy:40)
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+   M /branches/branch2/_
+   A /branches/branch2/btqoVTa5ss.rfo (from /branches/branch9/btqoVTa5ss.rfo:40)
+   A /branches/branch2/hrf2erfobt.kIw (from /branches/branch9/hrf2erfobt.kIw:40)
+Merged via: r44
+
+r31
+------------------------------------------------------------------------
+r40 | blue | 2025-03-30 16:44:50 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+   M /branches/branch9/_
+Merged via: r44, r41
+
+r30
+------------------------------------------------------------------------
+r39 | blue | 2025-03-30 16:44:50 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+   A /branches/branch9/btqoVTa5ss.rfo
+Merged via: r44, r41
+
+r29
+------------------------------------------------------------------------
+r31 | blue | 2025-03-30 16:44:15 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+Merged via: r44, r41
+
+r21
+------------------------------------------------------------------------
+r27 | blue | 2025-03-30 16:44:12 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+   M /branches/branch9/_
+Merged via: r44, r41
+
+r18
+------------------------------------------------------------------------
+r23 | blue | 2025-03-30 16:44:09 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+   A /branches/branch9/hrf2erfobt.kIw
+Merged via: r44, r41
+
+r14
+------------------------------------------------------------------------
+r21 | blue | 2025-03-30 16:44:07 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9
+   A /branches/branch9/5Jkr8SyxU0.VHy
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+Merged via: r44, r41
+
+r12
+------------------------------------------------------------------------
+r20 | red | 2025-03-30 16:43:23 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch4/B.java
+   M /branches/branch4/D.java
+   M /branches/branch4/H.java
+   M /branches/branch4/I.java
+Merged via: r44, r41, r21
+
+r11
+------------------------------------------------------------------------
+r10 | red | 2025-03-30 16:43:12 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch4/D.java
+Merged via: r44, r41, r21
+
+r4
+------------------------------------------------------------------------
+r9 | red | 2025-03-30 16:43:11 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch4 (from /branches/branch3:8)
+Merged via: r44, r41, r21
+
+Add branch4
+------------------------------------------------------------------------
+r38 | blue | 2025-03-30 16:44:49 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch2
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+   M /branches/branch2/_
+Merged via: r44
+
+r28
+------------------------------------------------------------------------
+r37 | red | 2025-03-30 16:44:41 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch20/B.java
+   M /branches/branch20/D.java
+   M /branches/branch20/H.java
+   M /branches/branch20/I.java
+   M /branches/branch20/_
+Merged via: r44, r38
+
+r27
+------------------------------------------------------------------------
+r35 | red | 2025-03-30 16:44:39 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch20
+   M /branches/branch20/B.java
+   M /branches/branch20/D.java
+   M /branches/branch20/H.java
+   M /branches/branch20/I.java
+   M /branches/branch20/_
+Merged via: r44, r38
+
+r25
+------------------------------------------------------------------------
+r34 | red | 2025-03-30 16:44:36 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch10/B.java
+   M /branches/branch10/D.java
+   M /branches/branch10/H.java
+   M /branches/branch10/I.java
+Merged via: r44, r38, r35
+
+r24
+------------------------------------------------------------------------
+r25 | red | 2025-03-30 16:44:10 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch10/B.java
+   M /branches/branch10/D.java
+   M /branches/branch10/H.java
+   M /branches/branch10/I.java
+Merged via: r44, r38, r35
+
+r16
+------------------------------------------------------------------------
+r19 | red | 2025-03-30 16:43:22 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch10/B.java
+   M /branches/branch10/D.java
+   M /branches/branch10/H.java
+   M /branches/branch10/I.java
+Merged via: r44, r38, r35
+
+r10
+------------------------------------------------------------------------
+r18 | red | 2025-03-30 16:43:21 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch10 (from /branches/branch9:17)
+Merged via: r44, r38, r35
+
+Add branch10
+------------------------------------------------------------------------
+r17 | blue | 2025-03-30 16:43:21 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch9
+   A /branches/branch9/2uBAxJGJBY.U08
+   M /branches/branch9/B.java
+   M /branches/branch9/D.java
+   M /branches/branch9/H.java
+   M /branches/branch9/I.java
+Merged via: r44, r38, r35
+
+r9
+------------------------------------------------------------------------
+r16 | blue | 2025-03-30 16:43:15 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch9 (from /branches/branch3:15)
+Merged via: r44, r38, r35
+
+Add branch9
+------------------------------------------------------------------------
+r15 | blue | 2025-03-30 16:43:15 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch3/B.java
+   M /branches/branch3/D.java
+   M /branches/branch3/H.java
+   M /branches/branch3/I.java
+Merged via: r44, r38, r35
+
+r8
+------------------------------------------------------------------------
+r8 | blue | 2025-03-30 16:43:11 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch3/D.java
+Merged via: r44, r38, r35
+
+r3
+------------------------------------------------------------------------
+r7 | blue | 2025-03-30 16:43:10 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch3 (from /branches/branch2:6)
+Merged via: r44, r38, r35
+
+Add branch3
+------------------------------------------------------------------------
+r30 | red | 2025-03-30 16:44:14 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch20/B.java
+   M /branches/branch20/D.java
+   M /branches/branch20/H.java
+   M /branches/branch20/I.java
+Merged via: r44, r38
+
+r20
+------------------------------------------------------------------------
+r29 | red | 2025-03-30 16:44:13 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch20 (from /branches/branch2:28)
+Merged via: r44, r38
+
+Add branch20
+------------------------------------------------------------------------
+r33 | blue | 2025-03-30 16:44:35 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch2
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+Merged via: r44
+
+r23
+------------------------------------------------------------------------
+r32 | blue | 2025-03-30 16:44:16 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch7/B.java
+   M /branches/branch7/D.java
+   M /branches/branch7/H.java
+   M /branches/branch7/I.java
+Merged via: r44, r33
+
+r22
+------------------------------------------------------------------------
+r14 | blue | 2025-03-30 16:43:14 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch7/0ZWiR7XVae.4A8
+   M /branches/branch7/B.java
+   M /branches/branch7/D.java
+   M /branches/branch7/H.java
+   M /branches/branch7/I.java
+   A /branches/branch7/oA1VHy5Jkr.fcU
+Merged via: r44, r33
+
+r7
+------------------------------------------------------------------------
+r13 | blue | 2025-03-30 16:43:13 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch7 (from /branches/branch1:12)
+Merged via: r44, r33
+
+Add branch7
+------------------------------------------------------------------------
+r12 | red | 2025-03-30 16:43:13 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch1/2uBAxJGJBY.U08
+   M /branches/branch1/B.java
+   M /branches/branch1/D.java
+   M /branches/branch1/H.java
+   M /branches/branch1/I.java
+Merged via: r44, r33
+
+r6
+------------------------------------------------------------------------
+r28 | blue | 2025-03-30 16:44:13 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+   A /branches/branch2/obtqoVTa5s.erf
+   A /branches/branch2/r8SyxU082u.5Jk
+Merged via: r44
+
+r19
+------------------------------------------------------------------------
+r24 | blue | 2025-03-30 16:44:10 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch2/2uBAxJGJBY.U08
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+Merged via: r44
+
+r15
+------------------------------------------------------------------------
+r11 | blue | 2025-03-30 16:43:13 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+Merged via: r44
+
+r5
+------------------------------------------------------------------------
+r6 | blue | 2025-03-30 16:43:10 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch2/0ZWiR7XVae.4A8
+   M /branches/branch2/B.java
+   M /branches/branch2/D.java
+   M /branches/branch2/H.java
+   M /branches/branch2/I.java
+   A /branches/branch2/oA1VHy5Jkr.fcU
+Merged via: r44
+
+r2
+------------------------------------------------------------------------
+r5 | blue | 2025-03-30 16:43:09 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch2 (from /branches/branch1:4)
+Merged via: r44
+
+Add branch2
+------------------------------------------------------------------------
+r4 | red | 2025-03-30 16:43:09 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /branches/branch1/B.java
+   M /branches/branch1/D.java
+   M /branches/branch1/H.java
+   M /branches/branch1/I.java
+   A /branches/branch1/_
+Merged via: r44
+
+r1
+------------------------------------------------------------------------
+r3 | red | 2025-03-30 16:43:08 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches/branch1 (from /trunk:2)
+Merged via: r44
+
+Add branch1
+------------------------------------------------------------------------
+r36 | red | 2025-03-30 16:44:40 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /trunk/2uBAxJGJBY.U08
+   M /trunk/B.java
+   M /trunk/D.java
+   M /trunk/H.java
+   M /trunk/I.java
+
+r26
+------------------------------------------------------------------------
+r26 | red | 2025-03-30 16:44:11 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   M /trunk/B.java
+   M /trunk/D.java
+   M /trunk/H.java
+   M /trunk/I.java
+   A /trunk/_
+
+r17
+------------------------------------------------------------------------
+r2 | red | 2025-03-30 16:43:08 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /trunk/B.java
+   A /trunk/D.java
+   A /trunk/H.java
+   A /trunk/I.java
+
+r0
+------------------------------------------------------------------------
+r1 | red | 2025-03-30 16:43:07 +0300 (Вс, 30 мар 2025) | 1 line
+Changed paths:
+   A /branches
+   A /trunk
+
+File structure
+------------------------------------------------------------------------

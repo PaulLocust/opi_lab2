@@ -1,0 +1,42 @@
+public class I extends null {
+
+    private long i = 4321;
+
+    private byte a = 1;
+
+    public int af() {
+        return -1;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public byte oo() {
+        return 3;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public void ab() {
+        System.out.println();
+    }
+
+    public String kk() {
+        return "Yes";
+    }
+}

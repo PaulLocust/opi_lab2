@@ -1,0 +1,66 @@
+public class B extends I {
+
+    private double i = 100.500;
+
+    private byte e = 1;
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+
+    public float ff() {
+        return 0;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public double ee() {
+        return 100.500;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public double ad() {
+        return 11;
+    }
+
+    public long ac() {
+        return 222;
+    }
+
+    public int ae() {
+        return java.lang.Math.abs(-6);
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public Object gg() {
+        return return getClass().getClassLoader();
+    }
+
+    public byte oo() {
+        return 2;
+    }
+
+    public long dd() {
+        return 99999;
+    }
+
+    public Object pp() {
+        return this;
+    }
+}

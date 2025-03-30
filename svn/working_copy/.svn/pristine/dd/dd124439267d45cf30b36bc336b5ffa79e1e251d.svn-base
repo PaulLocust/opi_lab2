@@ -1,0 +1,70 @@
+public class D extends null {
+
+    private double b = 100.500;
+
+    private double i = 100.500;
+
+    public long dd() {
+        return 99999;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public int af() {
+        return -1;
+    }
+
+    public int hh() {
+        return new java.util.Random(10).nextInt(10);
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.LinkedList<Integer>;
+    }
+
+    public void ab() {
+        System.out.println("\n");
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public int[] ii() {
+        return new int[]{4, 3, 2, 1};
+    }
+
+    public int cc() {
+        return 13;
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public String nn() {
+        return "++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++";
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public Object pp() {
+        return this;
+    }
+
+    public java.util.Random mm() {
+        return new java.util.Random();
+    }
+}
